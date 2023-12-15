@@ -1,5 +1,5 @@
 # Finetune_LLM
-A practice board of fine-tuning LLM using different techniques
+A practice board of fine-tuning LLM using different techniques.
 
 ##　Roleplaying
 | Project Name | Summary | Model | Link|
