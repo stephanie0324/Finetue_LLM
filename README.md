@@ -1,5 +1,5 @@
 # Finetune_LLM
-A practice board of fine-tuning LLM using different techniques.
+A practice board of fine-tuning LLM using different techniques for different tasks.
 
 ## Information Retrieval
 The process of information retrieval involves **indexing documents**, **receiving user queries**, **searching for relevant content in the indexed data**, **ranking the results**, and presenting the most pertinent information to the user.
