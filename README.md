@@ -1,7 +1,6 @@
 <h1 align="center">Finetune_LLM </h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=stephanie0324&color=green" alt="stephanie0324" />
     <a href="https://github.com/stephanie0324/Finetune_LLM/stargazers">
         <img alt="Build" src="https://img.shields.io/github/stars/stephanie0324/Finetune_LLM.svg?color=yellow&style=flat&label=Stars&logoColor=white">
     </a>
