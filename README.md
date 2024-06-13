@@ -1,4 +1,4 @@
-<h1 align="center">Finetune_LLM </h1>
+<h1 align="center"> LLM Projects </h1>
 
 <p align="center">
     <a href="https://github.com/stephanie0324/Finetune_LLM/stargazers">
